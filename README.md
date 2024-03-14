@@ -11,7 +11,7 @@ To become a beta tester for Buswise, please follow these steps:
 
 1. **Download the Latest Release:** Navigate to the [Releases](https://github.com/Rono0365/betatestBW/releases) section of this repository to find the latest beta version of the app. Download the release suitable for your device.
 2. **Installation:** Once downloaded, install the app on your device. You may need to approve installation from unknown sources.
-3. **Join the Community:** If you haven't already, join our beta testing community on [Discord](#) (link to Discord). This is where we share updates, discuss features, and provide direct feedback.
+
 
 ## Providing Feedback
 
