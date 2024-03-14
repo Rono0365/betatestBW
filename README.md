@@ -1,6 +1,6 @@
 # betatestBW
 Empowering Students, Connecting Schools, Innovating Education
-
+Navigate to our [website](https://buswise.co.ke/) for more info
 # Beta Testers Repository for Buswise
 
 Welcome to the official beta testing repository for Buswise! This space is dedicated to our beta testers, who play a crucial role in shaping the future of our app. By providing valuable feedback, you help us identify issues, understand user needs, and enhance the overall experience. Thank you for joining us on this exciting journey!
